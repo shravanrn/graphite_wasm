@@ -42,6 +42,7 @@ add_executable(libgraphite.wasm
             "${CMAKE_SOURCE_DIR}/../mozilla-latest/src_git/gfx/graphite2/src/gr_logging.cpp"
             "${CMAKE_SOURCE_DIR}/../mozilla-latest/src_git/gfx/graphite2/src/gr_segment.cpp"
             "${CMAKE_SOURCE_DIR}/../mozilla-latest/src_git/gfx/graphite2/src/gr_slot.cpp"
+            "${CMAKE_SOURCE_DIR}/../mozilla-latest/src_git/gfx/graphite2/src/GraphiteExtra.cpp"
             "${CMAKE_SOURCE_DIR}/../mozilla-latest/src_git/gfx/graphite2/src/Intervals.cpp"
             "${CMAKE_SOURCE_DIR}/../mozilla-latest/src_git/gfx/graphite2/src/json.cpp"
             "${CMAKE_SOURCE_DIR}/../mozilla-latest/src_git/gfx/graphite2/src/Justifier.cpp"
